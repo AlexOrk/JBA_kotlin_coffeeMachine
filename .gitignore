@@ -1,0 +1,22 @@
+﻿# Скомпилированные файлы
+*.class
+
+# Директории и файлы, создаваемые IDE
+bin
+out
+build
+.idea/
+.gradle/
+.classpath
+.project
+.settings
+.checkstyle
+.factorypath
+*.iml
+
+# Папка с артефактами
+dist
+
+# Дополнительные папки и файлы
+app/
+*.jar
